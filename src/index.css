@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.ant-dropdown.ant-dropdown-placement-bottomLeft{
+  top: 50px !important;
+}
+
+.ant-steps-dot .ant-steps-item-content, .ant-steps-dot.ant-steps-small .ant-steps-item-content{
+  width: 186px !important;
+}
+
+.ant-steps  svg{
+  width: 2.5rem !important;
+  height: 2.5rem !important
+}
