@@ -176,7 +176,7 @@ const MainIndex = () => {
             Giúp người dùng thoải mái trong quá trình giao dịch với giao diện đơn giản
           </div>
           <div style={{ width: '250px', textAlign: 'center' }}>
-            Về lâu dài, xây dựng VieSwap thành một sàn giao dịch tiền điện tử số 1 Việt Nam
+            Về lâu dài, xây dựng VieSwap thành một sàn giao dịch tiền điện tử số 1 Việt Nam, giúp người dùng trải nghiệm những tính năng mới, đa dạng hơn thỏa mãn nhu cầu người dùng
           </div>
           <div style={{ width: '250px', textAlign: 'center' }}>
             Giải quyết những bất cập của người dùng một cách nhanh chóng, tiện lợi
