@@ -7,6 +7,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -23,4 +25,8 @@ code {
 .ant-steps  svg{
   width: 2.5rem !important;
   height: 2.5rem !important
+}
+
+article{
+  height: 100vh !important;
 }
