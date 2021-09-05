@@ -288,7 +288,7 @@ const MainIndex = () => {
         justifyContent: 'center',
         margin: '2rem 0'
       }}>
-        <div style={{margin: '0 1rem'}}>
+        <div style={{ margin: '0 1rem' }}>
           <div>
             <img src={HoangAva} width="175px" height="250px" />
           </div>
@@ -298,7 +298,7 @@ const MainIndex = () => {
           </div>
         </div>
 
-        <div style={{margin: '0 1rem'}}>
+        <div style={{ margin: '0 1rem' }}>
           <div>
             <img src={ThaoAva} width="175px" height="250px" />
           </div>
@@ -308,7 +308,7 @@ const MainIndex = () => {
           </div>
         </div>
 
-        <div style={{margin: '0 1rem'}}>
+        <div style={{ margin: '0 1rem' }}>
           <div>
             <img src={ThoaAva} width="175px" height="250px" />
           </div>
@@ -345,9 +345,15 @@ const MainIndex = () => {
           columnGap: '0.75rem',
           marginTop: '0.25rem'
         }}>
-          <FacebookOutlined style={{ cursor: 'pointer' }} />
-          <TwitterOutlined style={{ cursor: 'pointer' }} />
-          <EuroCircleOutlined style={{ cursor: 'pointer' }} />
+          <a href="https://www.facebook.com/VieSwap.vn" target="_blank">
+            <FacebookOutlined style={{ cursor: 'pointer' }} />
+          </a>
+          <a href="#">
+            <TwitterOutlined style={{ cursor: 'pointer' }} />
+          </a>
+          <a href="#">
+            <EuroCircleOutlined style={{ cursor: 'pointer' }} />
+          </a>
         </div>
       </div>
     </div>
